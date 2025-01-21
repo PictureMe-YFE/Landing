@@ -2,12 +2,12 @@ import themes from "daisyui/src/theming/themes.js";
 
 const config = {
   // REQUIRED
-  appName: "Sawerni",
+  appName: "Sawarni",
   // REQUIRED: a short description of your app for SEO tags (can be overwritten)
   appDescription:
     "Behind every scan there is a story",
   // REQUIRED (no https://, not trialing slash at the end, just the naked domain)
-  domainName: "sawerni.me",
+  domainName: "sawarni.me",
   colors: {
     // REQUIRED — The DaisyUI theme to use (added to the main layout.js). Leave blank for default (light & dark mode). If you any other theme than light/dark, you need to add it in config.tailwind.js in daisyui.themes.
     theme: "lofi",
