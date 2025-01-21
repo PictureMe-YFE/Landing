@@ -46,7 +46,7 @@ const Footer = () => {
           ))}
         </div>
         <p className="mt-6 text-center text-sm text-white">
-          &copy; {new Date().getFullYear()} sawerni. All rights reserved.
+          &copy; {new Date().getFullYear()} sawarni. All rights reserved.
         </p>
       </div>
     </footer>
