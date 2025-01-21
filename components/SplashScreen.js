@@ -16,7 +16,7 @@ const SplashScreen = () => {
       hideSplashScreen();
       return (
         <div className="flex items-center justify-center h-screen bg-black text-white">
-          <h1 className="text-4xl font-bold animate-pulse">sawerni</h1>
+          <h1 className="text-4xl font-bold animate-pulse">sawarni</h1>
         </div>
       );
     }
