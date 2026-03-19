@@ -14,6 +14,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" data-theme={config.colors.theme} className="font-bricolage">
       <body>
+        <Script
+          src="https://telegram.org/js/telegram-web-app.js?61"
+          strategy="beforeInteractive"
+        />
         <ClientLayout>{children}</ClientLayout>
       </body>
     </html>
