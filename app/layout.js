@@ -1,3 +1,4 @@
+import Script from "next/script";
 import { getSEOTags } from "@/libs/seo";
 import ClientLayout from "@/components/LayoutClient";
 import config from "@/config";
